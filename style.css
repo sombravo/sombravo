@@ -196,6 +196,18 @@ span:hover {
     font-size: 20px;
 }
 
+.heading-aim1 {
+    color: #200227;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 3px 2px 3px blueviolet;
+}
+
+.heading1-aimobj {
+    font-size: 20px;
+    color: #5a7c09;
+}
+
 .sm {
     font-size: 15px;
     color: #e20404;
@@ -261,6 +273,20 @@ span:hover {
 .boxes p {
     font-size: 13px;
 }
+
+/*AIM AND OBJECTIVE*/
+.boxes-aimobj {
+    text-align: center;
+    background-color: #fff1f1;
+    padding: 12px 15px;
+    margin: 2% 1%;
+    border-radius: 10px;
+}
+.boxes-aimobj img {
+    width: 300px;
+}
+
+/*AIM AND OBJECTIVE*/
 
 
 /* ________classes  */
